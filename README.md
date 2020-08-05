@@ -1,1 +1,6 @@
 # Airline-Safety-Dashboard
+
+This project was very interesting because I had spent a lot of time understanding and learning more about Power BI, which is a program that I truly start to enjoy using. Besides learning Power BI, I had the opportunity to read so many articles about airline safety and airplanes crashes in the past few years. There are a few things that we need to clearly understand when it comes to airline safety.
+
+Last year, 11 of the 20 fatal accidents occurred in North America; however, a significant increase over past years. In 2018 one fatal accident was reported, while in 2017 there were three. Five of the accidents that occurred in North America last year took place in rugged or remote areas of Alaska or Canada. According to David Shepardson, a writer and editor for Reuters.com, the worst airline accident recorded in the U.S. last year followed the February crash of a cargo-carrying Boeing 767 while on approach to Houston’s George Bush Intercontinental Airport. Outside North America, additional accidents occurred in Russia, Mexico, Indonesia, Tanzania, Ukraine, Columbia and the Democratic Republic of Congo. 
+For this project, I have used two datasets to complete my Dashboard. The first dataset is the one that was provided by the professor and the second dataset is the one that was required to be used as secondary. 
